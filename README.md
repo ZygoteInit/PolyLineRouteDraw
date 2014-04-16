@@ -1,4 +1,6 @@
 PolyLineRouteDraw
 =================
 
-This is a code for showing how to draw a route path using PolyLine and Google Direction API. It's easy if you try,
+This is a code for showing how to draw a route path using PolyLine and Google Direction API. It's easy if you try.
+
+[alt text](https://pbs.twimg.com/media/BlR2rvhCMAAlYMD.png:large)
